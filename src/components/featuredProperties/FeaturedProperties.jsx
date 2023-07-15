@@ -5,13 +5,13 @@ const FeaturedProperties = () => {
     <div className="fp">
       <div className="fpItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/hotel/square600/13125860.webp?k=e148feeb802ac3d28d1391dad9e4cf1e12d9231f897d0b53ca067bde8a9d3355&o=&s=1"
+          src="https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2019/01/villa.jpg"
           alt=""
           className="fpImg"
         />
-        <span className="fpName">Aparthotel Stare Miasto</span>
-        <span className="fpCity">Madrid</span>
-        <span className="fpPrice">Starting from $120</span>
+        <span className="fpName">The Oberoi Rajvilas Jaipur</span>
+        <span className="fpCity">Jaipur</span>
+        <span className="fpPrice">Starting from ₹38,750</span>
         <div className="fpRating">
           <button>8.9</button>
           <span>Excellent</span>
@@ -19,13 +19,13 @@ const FeaturedProperties = () => {
       </div>
       <div className="fpItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/215955381.jpg?k=ff739d1d9e0c8e233f78ee3ced82743ef0355e925df8db7135d83b55a00ca07a&o=&hp=1"
+          src="https://e1.pxfuel.com/desktop-wallpaper/1012/476/desktop-wallpaper-taj-palace-hotel-jpg-png-gif-raw-tiff-psd-pdf-and-watch-online-taj-hotels.jpg"
           alt=""
           className="fpImg"
         />
-        <span className="fpName">Comfort Suites Airport</span>
-        <span className="fpCity">Austin</span>
-        <span className="fpPrice">Starting from $140</span>
+        <span className="fpName">The Taj Mahal Palace</span>
+        <span className="fpCity">Mumbai</span>
+        <span className="fpPrice">Starting from ₹22,000</span>
         <div className="fpRating">
           <button>9.3</button>
           <span>Exceptional</span>
@@ -33,13 +33,13 @@ const FeaturedProperties = () => {
       </div>
       <div className="fpItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/232902339.jpg?k=3947def526b8af0429568b44f9716e79667d640842c48de5e66fd2a8b776accd&o=&hp=1"
+          src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b5/5f/31/facade.jpg?w=700&h=-1&s=1"
           alt=""
           className="fpImg"
         />
-        <span className="fpName">Four Seasons Hotel</span>
-        <span className="fpCity">Lisbon</span>
-        <span className="fpPrice">Starting from $99</span>
+        <span className="fpName">The LaLiT</span>
+        <span className="fpCity">New Delhi</span>
+        <span className="fpPrice">Starting from ₹8,615</span>
         <div className="fpRating">
           <button>8.8</button>
           <span>Excellent</span>
@@ -47,13 +47,13 @@ const FeaturedProperties = () => {
       </div>
       <div className="fpItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/322658536.jpg?k=3fffe63a365fd0ccdc59210188e55188cdb7448b9ec1ddb71b0843172138ec07&o=&hp=1"
+          src="https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcgrandgoa-goa/images/overview/overview-desktop/itc-grand-goa.png"
           alt=""
           className="fpImg"
         />
-        <span className="fpName">Hilton Garden Inn</span>
-        <span className="fpCity">Berlin</span>
-        <span className="fpPrice">Starting from $105</span>
+        <span className="fpName">ITC Grand Goa</span>
+        <span className="fpCity">Goa</span>
+        <span className="fpPrice">Starting from ₹26,550</span>
         <div className="fpRating">
           <button>8.9</button>
           <span>Excellent</span>

@@ -57,7 +57,7 @@ const Header = ({ type }) => {
         <div className="headerList">
           <div className="headerListItem active">
             <FontAwesomeIcon icon={faBed} />
-            <span>Stays</span>
+            <span>Hotels</span>
           </div>
           <div className="headerListItem">
             <FontAwesomeIcon icon={faPlane} />
@@ -73,17 +73,16 @@ const Header = ({ type }) => {
           </div>
           <div className="headerListItem">
             <FontAwesomeIcon icon={faTaxi} />
-            <span>Airport taxis</span>
+            <span>Airport Cabs</span>
           </div>
         </div>
         {type !== "list" && (
           <>
             <h1 className="headerTitle">
-              A lifetime of discounts? It's Genius.
+            Less Hassle, More Travel.
             </h1>
             <p className="headerDesc">
-              Get rewarded for your travels – unlock instant savings of 10% or
-              more with a free Lamabooking account
+            Unlock immediate savings of 10% or higher by simply creating a free Booking Galaxy account and earn rewards.
             </p>
             <button className="headerBtn">Sign in / Register</button>
             <div className="headerSearch">

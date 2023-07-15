@@ -5,7 +5,7 @@ const PropertyList = () => {
     <div className="pList">
       <div className="pListItem">
         <img
-          src="https://cf.bstatic.com/xdata/images/xphoto/square300/57584488.webp?k=bf724e4e9b9b75480bbe7fc675460a089ba6414fe4693b83ea3fdd8e938832a6&o="
+          src="https://media.istockphoto.com/id/1452529483/photo/3d-render-of-luxury-hotel-room.webp?b=1&s=170667a&w=0&k=20&c=u8emlx6KguYJGU4jZFRwGx9KAxOzWLmEBdIJIj1DAdQ="
           alt=""
           className="pListImg"
         />
@@ -27,7 +27,7 @@ const PropertyList = () => {
       </div>
       <div className="pListItem">
         <img
-          src="https://cf.bstatic.com/static/img/theme-index/carousel_320x240/bg_resorts/6f87c6143fbd51a0bb5d15ca3b9cf84211ab0884.jpg"
+          src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/380569812.jpg?k=0755f95e7361587eb7b9c9b79ea62d51b8dcef7cba1e3987daecd59e26daa42b&o=&hp=1"
           alt=""
           className="pListImg"
         />
@@ -44,17 +44,6 @@ const PropertyList = () => {
         />
         <div className="pListTitles">
           <h1>Villas</h1>
-          <h2>2331 hotels</h2>
-        </div>
-      </div>
-      <div className="pListItem">
-        <img
-          src="https://cf.bstatic.com/static/img/theme-index/carousel_320x240/card-image-chalet_300/8ee014fcc493cb3334e25893a1dee8c6d36ed0ba.jpg"
-          alt=""
-          className="pListImg"
-        />
-        <div className="pListTitles">
-          <h1>Cabins</h1>
           <h2>2331 hotels</h2>
         </div>
       </div>
